@@ -56,14 +56,5 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=iamkevinvle" alt="Layout with last medium posts"  />
-</div>
-
-###
 
 This is my GitHub handle: [TammamTautou](https://github.com/TammamTautou). Feel free to check out my repositories!
