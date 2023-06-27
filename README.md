@@ -53,9 +53,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" width="52" alt="nginx logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" width="52" alt="jest logo"  />
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" width="52" alt="aws logo"  />
-  <img src="https://img.stackshare.io/service/7146/k6.jpeg" height="40" width="52" alt="k6 logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/K6-logo.svg/374px-K6-logo.svg.png?20200330143628" height="40" width="52" alt="k6 logo"  />
 </div>
-https://img.stackshare.io/service/7146/k6.jpeg
+
 ###
 
 
