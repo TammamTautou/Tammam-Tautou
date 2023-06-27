@@ -12,7 +12,12 @@
 
 ###
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=TammamTautou&hide_border=true&border_radius=20)](https://git.io/streak-stats)
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=TammamTautou&hide_border=true&border_radius=20" height="220" alt="GitHub Streak"  />
+  </a>
+</div>
+
 ###
 
 <h1 align="center">hey 👋</h1>
