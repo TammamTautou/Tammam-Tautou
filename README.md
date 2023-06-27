@@ -12,10 +12,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=tammam-tautou&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=TammamTautou&hide_border=true&border_radius=20)](https://git.io/streak-stats)
 ###
 
 <h1 align="center">hey 👋</h1>
